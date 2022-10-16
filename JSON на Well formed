@@ -1,0 +1,19 @@
+```json
+{
+
+        ""surname"": ""Иванов""
+
+        ""name"": ""Иван""
+
+        ""patronymic"": ""Иванович""
+
+        ""birthdate"": ""01.01.1990""
+
+        ""birthplace"": ""Москва""
+
+        ""phone"": ""8 926 766 48 48""
+
+}
+</aside>
+При проверке кода JSON на Well formed. Выдает следующие: Unexpected token '`', "```json
+{"... is not valid JSON
